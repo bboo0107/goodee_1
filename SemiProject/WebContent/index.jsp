@@ -15,4 +15,7 @@
 	<footer>푸터추가</footer>
 >>>>>>> 신규개발
 </body>
+<script>
+	console.log('hello vs-code');
+</script>
 </html>
